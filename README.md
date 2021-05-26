@@ -1,2 +1,2 @@
 # python-homework
-Horm task week 2
+Homework task week 2
